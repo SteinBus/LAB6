@@ -1,0 +1,8 @@
+
+Microsoft DiskPart version 5.2.3790.1830
+Copyright (C) 1999-2001 Microsoft Corporation.
+On computer: SRV
+
+  Disk ###  Status      Size     Free     Dyn  Gpt
+  --------  ----------  -------  -------  ---  ---
+  Disk 0    Online        20 GB  8033 KB         

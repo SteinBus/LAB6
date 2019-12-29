@@ -1,0 +1,5 @@
+for /r "C:\cd" %F in (*) do @if %~zF geq 2048000 xcopy /Z /Y "%F" "\\srv\temp"
+for /r "C:\cd" %%F in (*) do @if %%~zF geq 2048000 xcopy /Z /Y "%%F" "\\srv\temp"
+at 20:30 batchcopy.bat
+at 1 /delete 
+fc C:\cd\I386\GM.DL_ \\srv\GM.DL_

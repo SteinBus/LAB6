@@ -1,0 +1,2 @@
+driverquery /fo table /nh > DRIVERS
+type DRIVERS | sort /r > DRIVERSREVERSE

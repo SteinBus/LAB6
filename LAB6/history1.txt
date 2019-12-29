@@ -1,0 +1,10 @@
+diskpart /s script1help.bat
+md TEST
+xcopy LAB6 TEST /e /y
+dir /b /o:D
+doskey /HISTORY > history.txt
+systeminfo
+del commands.txt
+del disks.txt
+del totalmem.txt
+del scriptq.txt

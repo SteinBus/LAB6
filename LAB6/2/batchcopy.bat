@@ -1,0 +1,1 @@
+for /r "C:\cd" %%F in (*) do @if %%~zF geq 2048000 xcopy /Z /Y "%%F" "\\srv\temp"
