@@ -1,0 +1,109 @@
+
+Host Name:                 SRV
+OS Name:                   Microsoft(R) Windows(R) Server 2003, Enterprise Edition
+OS Version:                5.2.3790 Service Pack 1 Build 3790
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Server
+OS Build Type:             Uniprocessor Free
+Registered Owner:          name
+Registered Organization:   name
+Product ID:                69713-640-0394874-45138
+Original Install Date:     08.02.2010, 20:46:37
+System Up Time:            21350397 Days, 22 Hours, 23 Minutes, 34 Seconds
+System Manufacturer:       innotek GmbH
+System Model:              VirtualBox
+System Type:               X86-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: x86 Family 6 Model 142 Stepping 10 GenuineIntel ~1800 Mhz
+BIOS Version:              VBOX   - 1
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             ru;Russian
+Input Locale:              en-us;English (United States)
+Time Zone:                 (GMT+03:00) Nairobi
+Total Physical Memory:     2ÿ047 MB
+Available Physical Memory: 1ÿ785 MB
+Page File: Max Size:       2ÿ189 MB
+Page File: Available:      2ÿ087 MB
+Page File: In Use:         102 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\SRV
+Hotfix(s):                 69 Hotfix(s) Installed.
+                           [01]: File 1
+                           [02]: File 1
+                           [03]: File 1
+                           [04]: File 1
+                           [05]: File 1
+                           [06]: File 1
+                           [07]: File 1
+                           [08]: File 1
+                           [09]: File 1
+                           [10]: File 1
+                           [11]: File 1
+                           [12]: File 1
+                           [13]: File 1
+                           [14]: File 1
+                           [15]: File 1
+                           [16]: File 1
+                           [17]: File 1
+                           [18]: File 1
+                           [19]: File 1
+                           [20]: File 1
+                           [21]: File 1
+                           [22]: File 1
+                           [23]: File 1
+                           [24]: File 1
+                           [25]: File 1
+                           [26]: File 1
+                           [27]: File 1
+                           [28]: File 1
+                           [29]: File 1
+                           [30]: File 1
+                           [31]: File 1
+                           [32]: File 1
+                           [33]: File 1
+                           [34]: Q147222
+                           [35]: KB933854 - QFE
+                           [36]: KB925398_WMP64
+                           [37]: KB926139-v2
+                           [38]: KB950749 - Update
+                           [39]: KB923561 - Update
+                           [40]: KB924667-v2 - Update
+                           [41]: KB925902-v2 - Update
+                           [42]: KB926122 - Update
+                           [43]: KB927891 - Update
+                           [44]: KB929123 - Update
+                           [45]: KB932168 - Update
+                           [46]: KB933854 - Update
+                           [47]: KB938127 - Update
+                           [48]: KB938464-v2 - Update
+                           [49]: KB941569 - Update
+                           [50]: KB943055 - Update
+                           [51]: KB944338-v2 - Update
+                           [52]: KB944653 - Update
+                           [53]: KB950760 - Update
+                           [54]: KB950762 - Update
+                           [55]: KB951066 - Update
+                           [56]: KB951748 - Update
+                           [57]: KB952004 - Update
+                           [58]: KB952954 - Update
+                           [59]: KB954600 - Update
+                           [60]: KB955069 - Update
+                           [61]: KB956572 - Update
+                           [62]: KB956803 - Update
+                           [63]: KB957097 - Update
+                           [64]: KB958687 - Update
+                           [65]: KB958690 - Update
+                           [66]: KB960225 - Update
+                           [67]: KB960803 - Update
+                           [68]: KB963027 - Update
+                           [69]: KB967715 - Update
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) PRO/1000 T Server Adapter
+                                 Connection Name: Local Area Connection 4
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.0.2.2
+                                 IP address(es)
+                                 [01]: 10.0.2.15
